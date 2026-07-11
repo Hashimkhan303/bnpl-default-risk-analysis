@@ -55,7 +55,7 @@ A 3-page Power BI dashboard translates the analysis into a business-ready tool:
 2. **Risk Segmentation** — customer risk tiers, credit score vs. risk relationship, provider comparison
 3. **Model Drivers** — feature importance, age-risk trend
 
-See `/Screenshots` for dashboard previews.
+See `Overview.png`, `Risk segment.png`, and `Model Driver.png` in this repository for dashboard previews.
 
 ## Limitations
 
@@ -75,4 +75,4 @@ Python (Pandas, Scikit-learn, Matplotlib, Seaborn) · Power BI (DAX, Power Query
 - `BNPL.pbix` — Power BI dashboard
 - `BNPL_dataset_v2.csv` — source data
 - `BNPL_results_for_powerbi.csv` — model output with predictions and risk segments
-- `/Screenshots` — dashboard page previews
+- `Overview.png`, `Risk segment.png`, `Model Driver.png` — dashboard page previews
